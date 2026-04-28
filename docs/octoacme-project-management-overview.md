@@ -17,8 +17,22 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- QA Lead: owns test strategy, quality gates, and release sign-off.
+- Technical Lead / Architect: defines architecture, leads code reviews, and owns technical decisions.
+- Scrum Master / Agile Coach: facilitates ceremonies, removes impediments, and coaches on Agile practices.
+- Business Analyst: gathers requirements, defines acceptance criteria, and bridges business and technical teams.
+- Sponsor / Executive Stakeholder: provides strategic direction, secures resources, and resolves escalated issues.
+
+## Decision-Making Authority
+| Decision Type | Authority |
+|---|---|
+| Product scope and prioritization | Product Manager |
+| Technical architecture and approach | Technical Lead / Architect |
+| Release go / no-go | Project Manager + QA Lead |
+| Resource allocation and budget | Sponsor |
+| Agile process and team ceremonies | Scrum Master |
+| Requirements and acceptance criteria | Business Analyst + Product Manager |
+| Escalated business-impacting risks | Sponsor |
 
 ## Key Artifacts
 - Project Charter / One-pager

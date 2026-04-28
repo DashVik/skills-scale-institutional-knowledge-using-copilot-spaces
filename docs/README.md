@@ -27,7 +27,8 @@ Quality and continuous improvement are embedded into execution practices. Teams 
 | [Risks and Communication](octoacme-risks-and-communication.md) | Risk Register management, escalation paths, and stakeholder communication templates |
 | [Release and Deployment](octoacme-release-and-deployment.md) | Standardized release process including pre-flight checklists, deployment steps, and rollback playbooks |
 | [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | How to run retrospectives, capture learnings, and track action items for iterative improvement |
-| [Roles and Personas](octoacme-roles-and-personas.md) | Definitions of core roles (Developer, Product Manager, Project Manager) and their responsibilities |
+| [Roles and Personas](octoacme-roles-and-personas.md) | Definitions of all roles (Developer, Product Manager, Project Manager, QA Lead, Scrum Master, Business Analyst, Technical Lead, Sponsor) and their responsibilities |
+| [Role Interactions](octoacme-role-interactions.md) | RACI matrix, cross-functional touchpoints by project phase, and communication flow between all roles |
 
 ---
 
