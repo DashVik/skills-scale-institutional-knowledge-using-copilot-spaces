@@ -24,6 +24,17 @@ Maintain a simple table with:
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
 
+### Stakeholder Personas and Communication Needs
+| Stakeholder | Information Needs | Frequency | Channel |
+|---|---|---|---|
+| Sponsor / Executive | Business outcomes, budget, major risks | Monthly | Executive status briefing |
+| Product Manager | Feature progress, acceptance criteria status | Weekly | PM + PdM sync |
+| Project Manager | Delivery status, risks, blockers | Daily / Weekly | Standup, status report |
+| QA Lead | Defect trends, test coverage, release readiness | Per sprint | QA status report |
+| Developers | Sprint goals, blockers, technical decisions | Daily | Standup, PR reviews |
+| Business Analyst | Requirements clarity, change requests | As needed | Backlog grooming sessions |
+| External Stakeholders (sales, support) | Release dates, known issues | Milestone-based | Release notes, announcements |
+
 ## Communication Templates
 Weekly Status Template:
 - Progress this week:
@@ -38,5 +49,6 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
+- Team-level -> **Scrum Master** -> **PM** -> **Product Lead** -> **Sponsor**
 - For security incidents, follow the security incident runbook and notify Security on-call
+- **Sponsor** is the final escalation authority for business-impacting issues, resource conflicts, and strategic decisions
